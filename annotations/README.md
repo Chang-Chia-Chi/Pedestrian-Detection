@@ -1,1 +1,0 @@
-# CoCo Dataset Formate
